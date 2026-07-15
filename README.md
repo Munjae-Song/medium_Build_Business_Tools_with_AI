@@ -8,7 +8,7 @@ No local development environment is required. Every example runs in **Google Col
 
 | # | Episode | What it builds | Live demo | Article |
 |---|---|---|---|---|
-| 001 | [The Interactive Dashboard](./001_interactive_dash_board) | An interactive manufacturing-quality dashboard over a SQLite database — trend charts, Cpk/Ppk capability metrics, histograms, and a summary table | [▶ Try it](https://quality-dashboard-demo.streamlit.app/) | _coming soon_ |
+| 001 | [The Interactive Dashboard](./001_interactive_dash_board) | An interactive manufacturing-quality dashboard over a SQLite database — trend charts, Cpk/Ppk capability metrics, histograms, and a summary table | [▶ Try it](https://quality-dashboard-demo.streamlit.app/) | [Read on Medium](https://medium.com/p/0ad2b752d099) |
 
 More episodes will be added as the series continues.
 

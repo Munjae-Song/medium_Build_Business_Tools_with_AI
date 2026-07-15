@@ -1,6 +1,7 @@
 # 001 — The Interactive Dashboard
 
 **▶ Live demo: https://quality-dashboard-demo.streamlit.app/** — no installation needed, just click Generate.
+**📖 Article: [Read on Medium](https://medium.com/p/0ad2b752d099)**
 
 An interactive manufacturing-quality dashboard built entirely from a single TCREI prompt. It runs in Google Colab with a Gradio UI: pick a date and a product, click **Generate**, and get 21 days of inspection trends, Cpk/Ppk process-capability charts, distribution histograms, and a summary table.
 
