@@ -1,0 +1,7 @@
+##Task: Build an interactive quality dashboard in Google Colab with a date picker, a product dropdown, and a run button. When the user clicks the button, retrieve 21 days of inspection data, filter out invalid records, and display trend charts, capability metrics, histograms, and a summary table. Lay out dimension on the left and thickness on the right.
+
+##Context: This dashboard is for quality engineers and line leaders who need to review process trends during daily meetings - without waiting for a manually prepared report. Anyone on the production floor should be able to check quality status without data handling skills.
+
+##References: A SQLite database file containing dimension and thickness inspection records. Three product specifications, each with annual tables. Key fields: inspection date, dimension, and thickness. Records where dimension or thickness is zero or negative are equipment noise - exclude them. Dimension specification is derived from the product name. Thickness upper limit: 0.7.
+
+##Evaluate: Test with a known product and date. Verify that all charts render correctly, exactly 21 days of data are retrieved, and capability calculations (Cpk and Ppk - measures of whether the process stays within specification limits) produce numbers that match what you already know to be correct.
