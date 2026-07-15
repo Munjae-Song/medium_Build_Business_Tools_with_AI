@@ -9,6 +9,8 @@ An interactive manufacturing-quality dashboard built entirely from a single TCRE
 | `medium_001_The_Interactive_Dashboard.ipynb` | The Colab notebook (final working code) |
 | `TCREI_prompt.txt` | The exact TCREI prompt used to generate the code |
 | `quality_data_small.db` | Sample SQLite database with synthetic inspection data (~80 MB) |
+| `streamlit_app.py` | Streamlit port of the dashboard, deployed as the live demo on Streamlit Community Cloud |
+| `hf_space/` | Gradio port packaged for Hugging Face Spaces (hosting a Gradio Space requires an HF PRO plan) |
 
 ## How to run
 
